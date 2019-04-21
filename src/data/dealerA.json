@@ -1,0 +1,3082 @@
+[
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 25
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-4",
+		"Month (ISO-8601)": "2016-04-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 22
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 54
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-8",
+		"Month (ISO-8601)": "2016-08-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 30
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-9",
+		"Month (ISO-8601)": "2016-09-02T04:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 33
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-10",
+		"Month (ISO-8601)": "2016-10-02T04:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 21
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-12",
+		"Month (ISO-8601)": "2016-12-02T05:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 25
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-6",
+		"Month (ISO-8601)": "2016-06-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-5",
+		"Month (ISO-8601)": "2016-05-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 32
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-1",
+		"Month (ISO-8601)": "2017-01-02T05:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 12
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 20
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-2",
+		"Month (ISO-8601)": "2017-02-02T05:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 33
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-4",
+		"Month (ISO-8601)": "2017-04-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 2
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-7",
+		"Month (ISO-8601)": "2016-07-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 17
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 2
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 24
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-3",
+		"Month (ISO-8601)": "2017-03-02T05:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 27
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 35
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2016-11",
+		"Month (ISO-8601)": "2016-11-02T04:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 20
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 29
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-5",
+		"Month (ISO-8601)": "2017-05-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 16
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 2
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 30
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-6",
+		"Month (ISO-8601)": "2017-06-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-7",
+		"Month (ISO-8601)": "2017-07-02T04:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 21
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-8",
+		"Month (ISO-8601)": "2017-08-02T04:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 12
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-9",
+		"Month (ISO-8601)": "2017-09-02T04:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 21
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 2
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 37
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-10",
+		"Month (ISO-8601)": "2017-10-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-11",
+		"Month (ISO-8601)": "2017-11-02T04:00:00.000Z",
+		"UnitsSold": 22
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 16
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 27
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-1",
+		"Month (ISO-8601)": "2018-01-02T05:00:00.000Z",
+		"UnitsSold": 29
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 22
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2017-12",
+		"Month (ISO-8601)": "2017-12-02T05:00:00.000Z",
+		"UnitsSold": 21
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 28
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-2",
+		"Month (ISO-8601)": "2018-02-02T05:00:00.000Z",
+		"UnitsSold": 20
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 27
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 4
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 24
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-3",
+		"Month (ISO-8601)": "2018-03-02T05:00:00.000Z",
+		"UnitsSold": 31
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 33
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 35
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-4",
+		"Month (ISO-8601)": "2018-04-02T04:00:00.000Z",
+		"UnitsSold": 34
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 17
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 16
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 34
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-6",
+		"Month (ISO-8601)": "2018-06-02T04:00:00.000Z",
+		"UnitsSold": 34
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 26
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 28
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 43
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-7",
+		"Month (ISO-8601)": "2018-07-02T04:00:00.000Z",
+		"UnitsSold": 53
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 20
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 23
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 9
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 40
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-5",
+		"Month (ISO-8601)": "2018-05-02T04:00:00.000Z",
+		"UnitsSold": 35
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 22
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 39
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 45
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 6
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-8",
+		"Month (ISO-8601)": "2018-08-02T04:00:00.000Z",
+		"UnitsSold": 21
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 2
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 27
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-9",
+		"Month (ISO-8601)": "2018-09-02T04:00:00.000Z",
+		"UnitsSold": 29
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 17
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 7
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 56
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 12
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-10",
+		"Month (ISO-8601)": "2018-10-02T04:00:00.000Z",
+		"UnitsSold": 34
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 18
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 55
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-11",
+		"Month (ISO-8601)": "2018-11-02T04:00:00.000Z",
+		"UnitsSold": 32
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 15
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 19
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 34
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 12
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2018-12",
+		"Month (ISO-8601)": "2018-12-02T05:00:00.000Z",
+		"UnitsSold": 40
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 10
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 48
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 13
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2019-1",
+		"Month (ISO-8601)": "2019-01-02T05:00:00.000Z",
+		"UnitsSold": 21
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Compact",
+		"Model": "Impreza",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 11
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Outback",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 14
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Mid-Size",
+		"Model": "Legacy",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 5
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Compact",
+		"Model": "BRZ",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 1
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Car - Sporty Mid-Size",
+		"Model": "WRX",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 3
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "XV",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Compact",
+		"Model": "Forester",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 32
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Large",
+		"Model": "Ascent",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 8
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - CUV Mid-Size",
+		"Model": "Tribeca",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - Pickup Compact",
+		"Model": "Baja",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 0
+	},
+	{
+		"Brand": "Subaru",
+		"Segment": "Trucks - SUV Compact",
+		"Model": "Crosstrek",
+		"Month": "2019-2",
+		"Month (ISO-8601)": "2019-02-02T05:00:00.000Z",
+		"UnitsSold": 20
+	}
+]
