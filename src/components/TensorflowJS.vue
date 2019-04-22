@@ -156,13 +156,17 @@ export default {
         }
       };
     },
+    
     testSeries() {
       if (this.results) {
         return {
           type: "line",
           name: "Testing Data",
           data: this.results.testingData.map(d => {
-            return [d.timestamp, d.unitsSold];
+            let tmpDate = new Date(d.salesMonth); // Check the name of the      field in the class
+            tmpDate.setMonth(tmpDate.getMonth() + 1);
+            let timestamp = tmpDate.getTime();
+            return [timestamp, d.unitsSold];
           }),
           marker: {
             lineColor: Highcharts.getOptions().colors[3]
@@ -178,7 +182,10 @@ export default {
           type: "line",
           name: "Predictions",
           data: this.results.predictionData.map(d => {
-            return [d.timestamp, d.unitsSold];
+            let tmpDate = new Date(d.salesMonth); // Check the name of the      field in the class
+            tmpDate.setMonth(tmpDate.getMonth() + 1);
+            let timestamp = tmpDate.getTime();
+            return [timestamp, d.unitsSold];
           }),
           marker: {
             lineColor: Highcharts.getOptions().colors[4]
