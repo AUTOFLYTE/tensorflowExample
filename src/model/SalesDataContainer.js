@@ -217,7 +217,6 @@ export default class SalesDataContainer {
 
         for (let i = 0; i < this.salesData.length - 1; i++) {
           // increment the month
-          incrementStartingMonth();
           windowArray.push(this._normalizeSales(this.salesData[i].unitsSold));
           let currentData = new SalesData(new Date(startingMonth), 0);
           // If the window is full, do stuff
@@ -231,6 +230,7 @@ export default class SalesDataContainer {
             // Shift the first element off to continue
             windowArray.shift();
           }
+          incrementStartingMonth();
         }
 
         // Push the current onto the prediction array, so that we have a continuous line
