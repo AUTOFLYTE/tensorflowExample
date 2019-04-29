@@ -227,6 +227,9 @@ export default class SalesDataContainer {
               currentData,
               considerMonths
             );
+            currentData.salesMonth.setMonth(
+              currentData.salesMonth.getMonth() + 1
+            );
             testingData.push(currentData);
             // Shift the first element off to continue
             windowArray.shift();
@@ -249,6 +252,9 @@ export default class SalesDataContainer {
             windowArray,
             currentData,
             considerMonths
+          );
+          currentData.salesMonth.setMonth(
+            currentData.salesMonth.getMonth() + 1
           );
           predictionData.push(currentData);
           windowArray.push(this._normalizeSales(currentData.unitsSold));

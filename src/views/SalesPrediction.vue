@@ -3,7 +3,7 @@
     <v-form>
       <v-container>
         <v-layout text-xs-center wrap>
-          <v-flex xs6 sm2 d-flex>
+          <v-flex xs6 sm4 d-flex>
             <v-select
               :items="dataFiles"
               item-text="text"
@@ -12,7 +12,7 @@
               v-model="selectedData"
             ></v-select>
           </v-flex>
-          <v-flex xs5 sm2 d-flex>
+          <v-flex xs6 sm4 d-flex>
             <v-select
               :items="availableModels"
               label="Model"
@@ -118,4 +118,3 @@ export default {
   }
 };
 </script>
-<style lang="sass" scoped></style>

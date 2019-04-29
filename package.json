@@ -9,17 +9,18 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "5.8.1",
+    "@tensorflow/tfjs": "1.0.4",
+    "@vue/devtools": "5.0.9",
     "core-js": "^2.6.5",
-    "material-design-icons-iconfont": "^3.0.3",
+    "highcharts": "7.1.0",
+    "highcharts-vue": "1.2.0",
+    "lodash": "4.17.11",
+    "material-design-icons-iconfont": "4.0.5",
     "roboto-fontface": "*",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
-    "vuetify": "^1.5.5",
-    "lodash": "4.17.11",
-    "@tensorflow/tfjs": "1.0.4",
-    "@vue/devtools": "5.0.9",
-    "highcharts": "7.1.0",
-    "highcharts-vue": "1.2.0"
+    "vuetify": "^1.5.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.6.0",
@@ -44,9 +45,6 @@
     "pre-commit": "lint-staged"
   },
   "lint-staged": {
-    "*.{js,vue}": [
-      "vue-cli-service lint",
-      "git add"
-    ]
+    "*.{js,vue}": ["vue-cli-service lint", "git add"]
   }
 }

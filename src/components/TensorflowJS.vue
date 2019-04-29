@@ -4,7 +4,7 @@
       <v-form>
         <v-container>
           <v-layout row wrap>
-            <v-flex xs4 sm2 md1>
+            <v-flex xs6 sm4 md2>
               <v-text-field
                 :min="10"
                 :max="1000"
@@ -13,7 +13,7 @@
                 v-model="model.epochs"
               />
             </v-flex>
-            <v-flex xs4 sm2 md1>
+            <v-flex xs6 sm4 md2>
               <v-text-field
                 :min="1"
                 :max="Math.floor(this.salesDataContainer.salesData.length / 2)"
@@ -22,20 +22,17 @@
                 v-model="model.window"
               />
             </v-flex>
-            <v-flex xs6 sm2>
-              <v-checkbox
-                v-model="model.considerMonths"
-                label="Consider Months"
-              ></v-checkbox>
+            <v-flex xs6 sm3>
+              <v-checkbox v-model="model.considerMonths" label="Consider Months"></v-checkbox>
             </v-flex>
-            <v-flex>
+            <v-flex sm1>
               <v-btn @click="calculatePrediction" color="info">Predict</v-btn>
             </v-flex>
           </v-layout>
         </v-container>
         <v-container>
           <v-layout row wrap>
-            <v-flex xs4 sm2 md1>
+            <v-flex xs4 sm3>
               <v-text-field
                 :min="1"
                 :step="1"
@@ -44,7 +41,7 @@
                 v-model="model.batchSize"
               />
             </v-flex>
-            <v-flex xs4 sm2 md1>
+            <v-flex xs4 sm3>
               <v-text-field
                 :min="0.0001"
                 :max="1"
@@ -54,7 +51,7 @@
                 v-model="model.learnRate"
               />
             </v-flex>
-            <v-flex xs4 sm2 md1>
+            <v-flex xs4 sm3>
               <v-text-field
                 :min="1"
                 :max="10"
@@ -64,7 +61,7 @@
                 v-model="model.hiddenLayers"
               />
             </v-flex>
-            <v-flex xs4 sm2 md1>
+            <v-flex xs4 sm3>
               <v-text-field
                 :min="1"
                 :max="12"
@@ -80,7 +77,7 @@
     </v-flex>
     <transition name="slide-fade">
       <div v-if="trainProgress.working">
-        <v-flex>
+        <v-flex xs12>
           <span>
             Iteration {{ trainProgress.progress }} of
             {{ trainProgress.steps }}
@@ -92,12 +89,13 @@
       </div>
     </transition>
     <transition name="slide-fade">
-      <v-flex v-if="trainProgress.loss">
+      <v-flex xs12 v-if="trainProgress.loss">
         <span class="text-xs-right">Loss {{ trainProgress.loss }}</span>
       </v-flex>
     </transition>
     <v-flex xs12>
-      <highcharts style="width:100%;" :options="chartOptions" />
+      <!-- For some reason, highcharts is not resizing when the screen changes -->
+      <highcharts :options="chartOptions"/>
     </v-flex>
   </div>
 </template>
